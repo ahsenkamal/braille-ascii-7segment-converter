@@ -1,0 +1,29 @@
+C:/Users/itsah/Desktop/ecn/testbench_2.v {1 {vlog -work work -stats=none C:/Users/itsah/Desktop/ecn/testbench_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_2
+
+Top level modules:
+	testbench_2
+
+} {} {}} C:/Users/itsah/Desktop/ecn/testbench_3.v {1 {vlog -work work -stats=none C:/Users/itsah/Desktop/ecn/testbench_3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_3
+
+Top level modules:
+	testbench_3
+
+} {} {}} C:/Users/itsah/Desktop/ecn/testbench_1.v {1 {vlog -work work -stats=none C:/Users/itsah/Desktop/ecn/testbench_1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testbench_1
+
+Top level modules:
+	testbench_1
+
+} {} {}} C:/Users/itsah/Desktop/ecn/BrailleTo7Segment.v {1 {vlog -work work -stats=none C:/Users/itsah/Desktop/ecn/BrailleTo7Segment.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BrailleTo7Segment
+
+Top level modules:
+	BrailleTo7Segment
+
+} {} {}}

@@ -1,0 +1,130 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vBrailleTo7Segment
+!s110 1624877459
+!i10b 1
+!s100 oXf5NiA2=HCe6^>4:R<RE3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXEzDXm`E4oE1=P``51Voa1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/itsah/Desktop/ecn
+w1624876835
+Z3 8C:/Users/itsah/Desktop/ecn/BrailleTo7Segment.v
+Z4 FC:/Users/itsah/Desktop/ecn/BrailleTo7Segment.v
+!i122 46
+L0 1 22
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1624877459.000000
+Z6 !s107 C:/Users/itsah/Desktop/ecn/BrailleTo7Segment.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/itsah/Desktop/ecn/BrailleTo7Segment.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@braille@to7@segment
+XBrailleTo7Segment_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1624795270
+VMDE7m26PMV7Kb]QSJm<@m3
+r1
+!s85 0
+!i10b 1
+!s100 VL>G[L3^n@5[IO:]=6B]K2
+IMDE7m26PMV7Kb]QSJm<@m3
+!i103 1
+S1
+R2
+w1624792118
+R3
+R4
+!i122 31
+L0 8 0
+R5
+31
+!s108 1624795270.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@braille@to7@segment_v_unit
+vtestbench_1
+!s110 1625154930
+!i10b 1
+!s100 :2<Z[O2n[6AAVz[iM9h252
+R0
+I?SS;cSL?c=WPo[;U1ikfA1
+R1
+R2
+w1624877400
+8C:/Users/itsah/Desktop/ecn/testbench_1.v
+FC:/Users/itsah/Desktop/ecn/testbench_1.v
+!i122 50
+Z10 L0 1 28
+R5
+r1
+!s85 0
+31
+!s108 1625154930.000000
+!s107 C:/Users/itsah/Desktop/ecn/testbench_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/itsah/Desktop/ecn/testbench_1.v|
+!i113 1
+R8
+R9
+vtestbench_2
+Z11 !s110 1625154931
+!i10b 1
+!s100 2`mAI8cPKDGFj^HkLQCbL2
+R0
+I0C4bDS=EQU=VEhULm>XXG2
+R1
+R2
+w1625154905
+8C:/Users/itsah/Desktop/ecn/testbench_2.v
+FC:/Users/itsah/Desktop/ecn/testbench_2.v
+!i122 51
+R10
+R5
+r1
+!s85 0
+31
+Z12 !s108 1625154931.000000
+!s107 C:/Users/itsah/Desktop/ecn/testbench_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/itsah/Desktop/ecn/testbench_2.v|
+!i113 1
+R8
+R9
+vtestbench_3
+R11
+!i10b 1
+!s100 63Pl2j3dKKWS@]99Z^zc?0
+R0
+I@BgL<JnL?TQl;:o=[:MXz2
+R1
+R2
+w1625154912
+8C:/Users/itsah/Desktop/ecn/testbench_3.v
+FC:/Users/itsah/Desktop/ecn/testbench_3.v
+!i122 52
+R10
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/itsah/Desktop/ecn/testbench_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/itsah/Desktop/ecn/testbench_3.v|
+!i113 1
+R8
+R9
